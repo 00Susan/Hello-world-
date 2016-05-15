@@ -1,2 +1,3 @@
 # Hello-world-
 Test repository
+This is to see how to use git hub repositories... 
